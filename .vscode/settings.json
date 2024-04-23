@@ -1,0 +1,10 @@
+{
+  "emmet.preferences": {},
+  "reactSnippets.settings.prettierEnabled": false,
+  "figma.autocompleteBlocks": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "javascript.preferences.importModuleSpecifierEnding": "auto",
+  "autoimport.filesToScan": "**/*.{ts,tsx}"
+}
